@@ -1,0 +1,25 @@
+/***************************Layout***********************/
+
+body {
+    font-family: 'Fredoka', sans-serif;
+    font-style: normal;
+    text-transform: capitalize;
+    background-color: coral;
+    color: white;
+}
+h2 {
+    color:brown;
+    font-size: 2em;
+    font-style: italic;
+    text-transform: uppercase;
+}
+p { 
+    color:green; 
+    font-size: 2em;
+    font-style: oblique;
+    
+}
+ul {
+    color: aqua;
+    text-transform: lowercase;
+}
